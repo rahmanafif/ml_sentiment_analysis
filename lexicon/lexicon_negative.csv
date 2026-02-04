@@ -1,3 +1,7 @@
+berhenti,-2
+kecewa,-4
+berat,-2
+merugikan,-6
 putus tali gantung,-2
 gelebah,-2
 gobar hati,-2
@@ -1576,7 +1580,6 @@ tergelingsir,-3
 bau kencur,-4
 alergi,-3
 kodok,-2
-drop,-3
 sedikit-dikitnya,-3
 xx,-1
 belikan,-1
@@ -2933,6 +2936,7 @@ menyakar,-5
 pepet,-5
 ketat,-3
 cuma,-3
+cuman,-3
 berdompol,-4
 mencecak,-3
 melumur,-4
@@ -6611,6 +6615,7 @@ senewen,-4
 menetapkan,-5
 kacang botor,-3
 perbaiki,-2
+diperbaiki,-2
 bug,-3
 abandon,-4
 abandoned,-4
@@ -8212,3 +8217,6 @@ zealot,-4
 zealots,-4
 fix,-5
 repair,-5
+disconnect,-2
+disconnected,-2
+disconnecting,-2
